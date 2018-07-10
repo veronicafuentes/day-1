@@ -35,6 +35,7 @@ html {
 	font-size: 24px;
 	padding: 0;
 	margin: 0;
+	color: white;
 }
 
 body {
@@ -43,33 +44,37 @@ body {
 }
 
 header {
-	background-color: pink;
+	background-color: lightpink;
 	grid-column: span 3;
 	padding: 16px;
 	text-align: center;
+	font-size: 50px;
 }
 
 nav {
-	background-color: purple;
-	padding: 16px;
+	background-color: lightpink;
+	padding-top: 16px;
 	text-align: center;
 }
 
 main {
-	background-color: gold;
+	background-color: lightpink;
 	padding: 16px;
+	font-size: 18px;
 }
 
 aside {
-	background-color: indigo;
+	background-color: lightpink;
 	padding: 16px;
 	text-align: center;
 }
 
 footer {
-	background-color: orange;
+	background-color: lightpink;
 	grid-column: span 3;
 	padding: 16px;
+	text-align: center;
+	font-size: 14px;
 }
 
 .container {
