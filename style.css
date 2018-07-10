@@ -55,6 +55,7 @@ nav {
 	background-color: lightpink;
 	padding-top: 16px;
 	text-align: center;
+	color: white;
 }
 
 main {
@@ -75,6 +76,14 @@ footer {
 	padding: 16px;
 	text-align: center;
 	font-size: 14px;
+}
+
+ol {
+	text-align: left;
+}
+
+a {
+	color: white;
 }
 
 .container {
