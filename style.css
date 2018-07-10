@@ -24,3 +24,7 @@ div {
 	margin: 150px;
 	text-align: left;
 }
+
+.cat-background {
+	background-image: url(cat-background.jpg);
+}
