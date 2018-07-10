@@ -16,6 +16,7 @@ p {
 	font-family: 'Bookman';
 	font-size: 18px;
 	min-width: 400px;
+	background-color: white;
 }
 
 div {
@@ -23,6 +24,7 @@ div {
 	padding: 20px;
 	margin: 150px;
 	text-align: left;
+
 }
 
 .cat-background {
