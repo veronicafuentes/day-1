@@ -54,7 +54,7 @@ header {
 nav {
 	background-color: lightpink;
 	padding-top: 16px;
-	text-align: center;
+	text-align: left;
 	color: white;
 }
 
@@ -78,12 +78,12 @@ footer {
 	font-size: 14px;
 }
 
-ol {
-	text-align: left;
-}
-
 a {
 	color: white;
+}
+
+.centy {
+	text-align: center;
 }
 
 .container {
